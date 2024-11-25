@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
 :root{
-    --bg-color: #222831;
-    --primary-color:#DDDDDD;
-    --secundary-color: #F05454;
+    --bg-color: hwb(286 12% 30%);
+    --primary-color:#742222;
+    --secundary-color: #fffafa;
     --font: "Nunito Sans", sans-serif;
 }
 
